@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>1.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <Controls>true</Controls>
+            <GalleryName>4</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/crystal/</ImageTemplate>
+            <ImageTemplateName>Crystal</ImageTemplateName>
+            <ImageWidth>830</ImageWidth>
+            <Images>true</Images>
+            <OneLoop>false</OneLoop>
+            <PublishFileName>C:/Users/Srinath/Documents/Visual Studio 2010/WebSites/SrutiKendra/Images/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/Srinath/Documents/Visual Studio 2010/WebSites/SrutiKendra/Images</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>10</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>Crystal</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>90</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>207</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>top</TooltipPos>
+        </Settings>
+        <Images>
+            <Image>
+                <url>E:\Sruti kendra\documents-export-2014-07-25\siksha\d.jpg</url>
+                <title>d</title>
+            </Image>
+            <Image>
+                <url>E:\Sruti kendra\documents-export-2014-07-25\siksha\s.jpg</url>
+                <title>s</title>
+            </Image>
+            <Image>
+                <url>E:\Sruti kendra\documents-export-2014-07-25\siksha\teachers training.jpg</url>
+                <title>teachers training</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

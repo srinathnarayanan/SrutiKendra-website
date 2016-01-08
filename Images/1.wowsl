@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>1.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>false</Captions>
+            <Controls>true</Controls>
+            <GalleryName>opening</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/crystal/</ImageTemplate>
+            <ImageTemplateName>Crystal</ImageTemplateName>
+            <ImageWidth>830</ImageWidth>
+            <Images>true</Images>
+            <OneLoop>false</OneLoop>
+            <PublishFileName>C:/Users/Srinath/Documents/Visual Studio 2010/WebSites/SrutiKendra/Images/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/Srinath/Documents/Visual Studio 2010/WebSites/SrutiKendra/Images</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>30</SlideshowDelay>
+            <SlideshowDuration>10</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <TemplateName>Crystal</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>90</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>207</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>top</TooltipPos>
+        </Settings>
+        <Images>
+            <Image>
+                <url>E:\Sruti kendra\documents-export-2014-07-25\DSC_1086.jpg</url>
+                <title>DSC_1086</title>
+            </Image>
+            <Image>
+                <url>E:\Sruti kendra\documents-export-2014-07-25\DSC_1153.JPG</url>
+                <title>DSC_1153</title>
+            </Image>
+            <Image>
+                <url>E:\Sruti kendra\documents-export-2014-07-25\Yuvacamp.jpg</url>
+                <title>Yuvacamp</title>
+            </Image>
+            <Image>
+                <url>E:\Sruti kendra\documents-export-2014-07-25\smartcamp1.JPG</url>
+                <title>smartcamp1</title>
+            </Image>
+            <Image>
+                <url>E:\Sruti kendra\documents-export-2014-07-25\DSC_0984.jpg</url>
+                <title>DSC_0984</title>
+            </Image>
+            <Image>
+                <url>E:\Sruti kendra\documents-export-2014-07-25\balakendra bhajans.jpg</url>
+                <title>balakendra bhajans</title>
+            </Image>
+            <Image>
+                <url>E:\Sruti kendra\documents-export-2014-07-25\Sruti sree kendra bhajan.jpg</url>
+                <title>Sruti sree kendra bhajan</title>
+            </Image>
+            <Image>
+                <url>E:\Sruti kendra\documents-export-2014-07-25\swamijiyagna2.jpg</url>
+                <title>swamijiyagna2</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
